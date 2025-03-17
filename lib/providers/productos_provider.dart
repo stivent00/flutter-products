@@ -17,7 +17,7 @@ class ProductosNotifier extends StateNotifier<List<dynamic>> {
   ProductosNotifier(this._apiService) : super([]);
 
   //Carga mas productos con el scroll
-  Future<void> obtenerMasProductoss() async {
+  Future<void> obtenerMasProductos() async {
     if (_cargando) return;
     _cargando = true;
 
