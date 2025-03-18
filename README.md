@@ -52,7 +52,7 @@ flutter run
 ✔️ DummyJSON API (fuente de datos)  
 
 
-### 📄 Licencia
+### 📄 Licencia  
 
 Este proyecto está bajo la licencia MIT.
 
@@ -60,4 +60,5 @@ Este proyecto está bajo la licencia MIT.
 ### 📫 Contacto
 
 📧 Email: dspr124@gmail.com  
-🔗 LinkedIn: [Daniel Perez](https://www.linkedin.com/in/danielperezroa/)  
+🔗 LinkedIn: [Daniel Perez](https://www.linkedin.com/in/danielperezroa/)
+
