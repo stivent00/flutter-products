@@ -19,7 +19,7 @@
 
 | 📱 Lista de productos | 📱 Detalle del producto |
 |----------------------|----------------------|
-| ![Lista](assets/screenshots/lista-productos.jpg) | ![Detalle](assets/screenshots/detalle-producto.jpg) |
+| ![Lista](assets/screenshots/lista-productos.JPG) | ![Detalle](assets/screenshots/detalle-producto.JPG) |
 
 ---
 
