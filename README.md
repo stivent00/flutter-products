@@ -55,7 +55,6 @@ flutter run
 Este proyecto está bajo la licencia MIT.
 
 
-###📫 Contacto
+### 📫 Contacto
 📧 Email: dspr124@gmail.com
 🔗 LinkedIn: [Daniel Perez](https://www.linkedin.com/in/danielperezroa/)
-
