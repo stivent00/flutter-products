@@ -45,16 +45,19 @@ flutter run
 ```
 
 ### 🛠️ Tecnologías utilizadas
-✔️ Flutter 3.29.2
-✔️ Dart 3.7.2
-✔️ Provider (gestión de estado)
-✔️ DummyJSON API (fuente de datos)
+
+✔️ Flutter 3.29.2  
+✔️ Dart 3.7.2  
+✔️ Provider (gestión de estado)  
+✔️ DummyJSON API (fuente de datos)  
 
 
 ### 📄 Licencia
+
 Este proyecto está bajo la licencia MIT.
 
 
 ### 📫 Contacto
-📧 Email: dspr124@gmail.com
-🔗 LinkedIn: [Daniel Perez](https://www.linkedin.com/in/danielperezroa/)
+
+📧 Email: dspr124@gmail.com  
+🔗 LinkedIn: [Daniel Perez](https://www.linkedin.com/in/danielperezroa/)  
