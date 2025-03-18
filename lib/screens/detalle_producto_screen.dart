@@ -8,8 +8,16 @@ class DetalleProductoScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text(producto['title'])),
-      body: Padding(
+      appBar: AppBar(
+        title: Text(producto['title']),
+        elevation: 0,
+        centerTitle: true,
+        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.vertical(bottom: Radius.circular(15))
+        ),
+      ),
+      body: Container(
         padding: EdgeInsets.all(16.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
