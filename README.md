@@ -6,7 +6,7 @@
 
 ## 🚀 Funcionalidades
 
-✔️ Listado de productos desde API pública [DummyJSON]. 
+✔️ Listado de productos desde API pública [DummyJSON].  
 ✔️ Scroll infinito para cargar más productos.  
 ✔️ Pantalla de detalle con descripción e imagen.  
 ✔️ Gestión de estado con **Riverpod**.  
